@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0714,50:581c87,100:a855f7&height=170&section=header&text=Felipe%20Rodrigues&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Web%20%7C%20Back-end&descSize=15&descAlignY=63&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0714,50:581c87,100:a855f7&height=170&section=header&text=Felipe%20Rodrigues&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%7C%20Web%20%7C%20Front-end&descSize=15&descAlignY=63&descAlign=50" width="100%"/>
 
 </div>
 
@@ -18,8 +18,12 @@
 <img src="https://img.shields.io/badge/EMAIL-7e22ce?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/felipe-rodrigues-2356ab408">
+<a href="https://www.linkedin.com/in/felipe-rodrigues-2356ab408">
 <img src="https://img.shields.io/badge/LINKEDIN-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href=["https://instagram.com/SEU_INSTAGRAM](https://www.instagram.com/rodrzfe?stkn=MWlhZXFxbTA3amlwMQ%3D%3D&utm_source=qr)">
+<img src="https://img.shields.io/badge/INSTAGRAM-7e22ce?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -34,11 +38,9 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e aluno do **SESI**.
 
 Estou construindo minha base em tecnologia através de estudos, atividades acadêmicas, desafios de programação e projetos próprios.
 
-Tenho interesse principalmente em **desenvolvimento front-end **.
+Tenho interesse principalmente em **desenvolvimento front-end**.
 
-tenho conhecimentos em língua inglesa **.
-
-
+Também tenho conhecimentos em **língua inglesa**.
 
 <br>
 
