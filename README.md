@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href=["https://instagram.com/SEU_INSTAGRAM](https://www.instagram.com/rodrzfe?stkn=MWlhZXFxbTA3amlwMQ%3D%3D&utm_source=qr)">
+<a href="https://www.instagram.com/rodrzfe?stkn=MWlhZXFxbTA3amlwMQ%3D%3D&utm_source=qr">
 <img src="https://img.shields.io/badge/INSTAGRAM-7e22ce?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
