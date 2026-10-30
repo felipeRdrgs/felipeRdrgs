@@ -59,7 +59,7 @@ HTML
 CSS  
 JavaScript  
 Python  
-Mysql   
+MySql   
 
 </td>
 
