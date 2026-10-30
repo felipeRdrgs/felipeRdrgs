@@ -58,9 +58,7 @@ Também tenho conhecimentos em inglês
 HTML  
 CSS  
 JavaScript
-
 Python
-
 Mysql
 
 </td>
