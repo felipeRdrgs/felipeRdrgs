@@ -40,7 +40,7 @@ Estou construindo minha base em tecnologia através de estudos, atividades acad�
 
 Tenho interesse principalmente em **desenvolvimento front-end**.
 
-Também tenho conhecimentos em **língua inglesa**.
+Também tenho conhecimentos inglês
 
 <br>
 
