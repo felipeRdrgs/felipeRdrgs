@@ -58,6 +58,8 @@ Também tenho conhecimentos em inglês
 HTML  
 CSS  
 JavaScript
+Python
+Mysql
 
 </td>
 
@@ -70,6 +72,9 @@ Ensino Médio
 
 **SENAI**  
 Desenvolvimento de Sistemas
+
+**UTAH TECH**
+Inglês Idioma
 
 </td>
 
